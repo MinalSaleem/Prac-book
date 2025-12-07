@@ -1,0 +1,45 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build artifacts
+*.o
+*.lo
+*.la
+*.al
+*.pyc
+*.pyo
+*.rej
+*.bak
+*.swp
+*.swo
+*.tmp
+*.vs/
+*.ncb
+*.suo
+*.user
+*.log
+*.obj
+*.pdb
+*.ilk
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Gemini temporary directory
+.gemini/tmp/
+
+# Python virtual environments
+.venv/
+venv/
+env/
+__pycache__/
+
+# Node.js
+node_modules/
