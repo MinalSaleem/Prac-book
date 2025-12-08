@@ -8,7 +8,7 @@ model: Gemini
 feature: none
 branch: master
 user: {{USER}}
-command: /sp.constitution Create a Constitution document for a book about "Physical Al" with these requirements: Target audience: beginners to intermediate Tech stack: Docusaurus for documentation Focus on hands-on Learning Provide the constitution with: Vision, Core Principles, Success Criteria, Constraints, Stakeholders, and Brand Voice.
+command: '/sp.constitution Create a Constitution document for a book about "Physical Al" with these requirements: Target audience: beginners to intermediate Tech stack: Docusaurus for documentation Focus on hands-on Learning Provide the constitution with: Vision, Core Principles, Success Criteria, Constraints, Stakeholders, and Brand Voice.'
 labels: ["constitution", "initialization"]
 links:
   spec: null
