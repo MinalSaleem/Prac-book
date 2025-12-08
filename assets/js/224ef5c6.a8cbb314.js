@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkbook_prac=globalThis.webpackChunkbook_prac||[]).push([[6238],{5369:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/Prac-book/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
